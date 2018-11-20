@@ -8,6 +8,8 @@
     background-color: white;
     cursor: pointer;
     list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .search-result li:hover {
